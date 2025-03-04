@@ -1,6 +1,12 @@
 # Ride the Elevator Project
 This project was made in response to the prompt: "Provide code that simulates an elevator" (Java)
 
+
+
+https://github.com/user-attachments/assets/eec5c632-02b5-4d41-908e-7c9ff0939555
+
+
+
 ## Approach and Assumptions
 Approaching this project as a Junior level Java developer with a short amount of time, there were a few goals I had in mind, including:
 - Thinking about an elevator in an Object Oriented Programming approach and demonstrating this in how the features were built
